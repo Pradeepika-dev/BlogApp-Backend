@@ -1,7 +1,7 @@
 # Blog App Backend Development ( Laravel 10 + Repository Design Pattern + REST API)
 
 ### Project Setup
-- Go to xampp/htdocs folder and clone the project folder by running "git clone"
+- Go to xampp/htdocs folder and clone the project folder by running "git clone https://github.com/Pradeepika-dev/BlogApp-Backend.git"
 - Create a new database is called "erabiz_db".
 - In the terminal, go to project folder and run "php artisan migrate"
 - Run the command, "php artisan serve"
